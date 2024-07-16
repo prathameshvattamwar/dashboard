@@ -4,7 +4,7 @@
 <br>
 <br>
 <p> click below link to open this project in your desktop/mobile/tab </p>
-<a href="https://prathameshvattamwar.github.io/dashboard">Click Here to open web</a>
+<a href="https://dashboard-prathameshs-projects-70a45211.vercel.app/">Click Here to open web</a>
 <br><br>
 <p style="margin-top:2vh;">Below are the output demo of this project</p>
 
