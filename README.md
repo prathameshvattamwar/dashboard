@@ -9,16 +9,19 @@
 <p style="margin-top:2vh;">Below are the output demo of this project</p>
 
 <br>
-<img src="https://i.imgur.com/XYbG9zH.png"/>
+<img src="https://i.imgur.com/Gc6Tn9B.png"/>
 
 <br>
-<img src="https://i.imgur.com/f3VsneV.png"/>
+<img src="https://i.imgur.com/D7heYI3.png"/>
 
 <br>
-<img src="https://i.imgur.com/YeLndCv.png"/>
+<img src="https://i.imgur.com/hi8XTPG.png"/>
 
 <br>
-<img src="https://i.imgur.com/yrZOiAt.png"/>
+<img src="https://i.imgur.com/foEwkh0.png"/>
+
+<br>
+<img src="https://i.imgur.com/nQybi0j.png"/>
 
 
 <h3>Follow me for more mini project ideas and free code access : <a href="https://github.com/prathameshvattamwar">Click here to follow</a></h3>
