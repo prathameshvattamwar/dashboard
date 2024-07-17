@@ -15,10 +15,10 @@
 <img src="https://i.imgur.com/D7heYI3.png"/>
 
 <br>
-<img src="https://i.imgur.com/hi8XTPG.png"/>
+<img src="https://i.imgur.com/cSo6coc.png"/>
 
 <br>
-<img src="https://i.imgur.com/foEwkh0.png"/>
+<img src="https://i.imgur.com/ARqosOt.png"/>
 
 <br>
 <img src="https://i.imgur.com/nQybi0j.png"/>
