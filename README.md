@@ -9,19 +9,31 @@
 <p style="margin-top:2vh;">Below are the output demo of this project</p>
 
 <br>
-<img src="https://i.imgur.com/Gc6Tn9B.png"/>
+<img src="https://i.imgur.com/uyV7GQ3.png"/>
 
 <br>
-<img src="https://i.imgur.com/D7heYI3.png"/>
+<img src="https://i.imgur.com/Afz2TGp.png"/>
 
 <br>
-<img src="https://i.imgur.com/cSo6coc.png"/>
+<img src="https://i.imgur.com/h2qCEZi.png"/>
 
 <br>
-<img src="https://i.imgur.com/ARqosOt.png"/>
+<img src="https://i.imgur.com/RQr1cwj.png"/>
 
 <br>
-<img src="https://i.imgur.com/nQybi0j.png"/>
+<img src="https://i.imgur.com/kxtt24t.png"/>
+
+<br>
+<img src="https://i.imgur.com/i0IUCC7.png"/>
+
+<br>
+<img src="https://i.imgur.com/Ea7lXdM.png"/>
+
+<br>
+<img src="https://i.imgur.com/0UO7Z1u.png"/>
+
+<br>
+<img src="https://i.imgur.com/41Vhf7i.png"/>
 
 
 <h3>Follow me for more mini project ideas and free code access : <a href="https://github.com/prathameshvattamwar">Click here to follow</a></h3>
